@@ -1,0 +1,43 @@
+body {
+    font-family: 'Raleway', sans-serif;
+}
+h1, h2, h3, h4, h5, .navbar-brand {
+    font-family: Roboto;
+}
+.container {
+    padding: 25px;
+}
+#nbLogo {
+    max-height: 40px;
+}
+.navbar-dark {
+    background-color: black!important;
+
+}
+.bckground {
+    background-image: url("../img/IMG_5213.JPG");
+    min-width: 100vw;
+    max-width: 1020px;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 35px;
+  }
+  .footer {
+      padding: 35px;
+      background-color: black;
+      color: white;
+      text-align: center;
+  }
+  .ssm-list {
+      list-style-type: none;
+      display: block;
+  }
+  .ssm-link-items{
+    display: inline-block;
+  }
+  .ssm-emb {
+    max-height: 20px;
+    display: block;
+  }
